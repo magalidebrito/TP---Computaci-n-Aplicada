@@ -5,7 +5,7 @@ Entrega del Trabajo Práctico Integrador de Computación Aplicada - Universidad 
 
 Magali Reser De Brito Fontes
 Guillermina Castaño
-Joaquin Recoder
 Isabella Cairone
-Francisco Carabajal
+Joaquin Recoder
 Santiago Muller
+Francisco Carabajal
